@@ -1,5 +1,5 @@
 # Intro till programmering
-Detta projekt är gjort för att förenkla programmeringen för min klass i kursen teknologi.
+Detta projekt är gjort för att förenkla programmeringen för vår klass i kursen teknologi.
 Språket som skrivs här är en förenklad version av `C` som används i Arduinoutveckling.
 Personer som har bidragit till detta:
 - `Pim Kennedy`
